@@ -17,3 +17,12 @@ Catgame is a codename for my main side project at the moment. It is a tactical t
 Vornelinks is a tool which is built on top of niche, over-the-years, close-community, hand-maintained data, then processed on top of multiple data sources to construct a functionality which basically allows the user to search DJs specific to Sisyphos club in Berlin, find similar DJs based on dancefloors and track selections, preview tracks they play, and select their sets to generate a SoundCloud playlist which can then be imported into Rekordbox and mixed immediately. Useful to swiftly try different styles which are within the boundaries of the club genre. Saves months of track-collection effort.
 
 https://github.com/user-attachments/assets/644db4ad-b45d-409a-8d9a-45f67eed7d64
+
+## Schweisshalle 4
+
+<table>
+  <tr>
+    <td width="280"><img src="./assets/schweisshalle-4.jpg" alt="Schweisshalle 4 cover"></td>
+    <td>Coding is great, but don't forget about the gym, for motivation use this <a href="https://soundcloud.com/kunokun/schweisshalle-4">techno set</a>.</td>
+  </tr>
+</table>
