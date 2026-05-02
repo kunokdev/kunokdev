@@ -1,8 +1,8 @@
 # What's Cooking?
 
-## Tabs at a Glance
+## [Tabs at a Glance](https://glance.kunok.dev)
 
-A keyboard-first Chrome extension for people who keep dozens of tabs open at once. It gives you Spotlight-style search across every open tab, tree-shaped trails that show how tabs branched off each other as you browse, a side panel with five different views of your tabs, a grid overlay for visually scanning everything, colored markers that flag production and staging tabs so you don't mix them up, and snapshot tools for developers. Runs entirely in your browser — no telemetry, no servers. If this project sounds interesting and you'd like to help build it, please reach out or [open an issue here](https://github.com/kunokdev/glance/issues/new?template=contribute.yml).
+A keyboard-first [Chrome extension](https://chromewebstore.google.com/detail/tabs-at-a-glance/okjebgkfdmohhhcmfboinllaadldconj) for people who keep dozens of tabs open at once. It gives you Spotlight-style search across every open tab, tree-shaped trails that show how tabs branched off each other as you browse, a side panel with five different views of your tabs, a grid overlay for visually scanning everything, colored markers that flag production and staging tabs so you don't mix them up, and snapshot tools for developers. Runs entirely in your browser — no telemetry, no servers. If this project sounds interesting and you'd like to help build it, please reach out or [open an issue here](https://github.com/kunokdev/glance/issues/new?template=contribute.yml).
 
 ![Tabs at a Glance](./assets/tabs-at-a-glance.png)
 
