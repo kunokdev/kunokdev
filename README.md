@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/644db4ad-b45d-409a-8d9a-45f67eed7d64
 
 <table>
   <tr>
-    <td width="280"><img src="./assets/schweisshalle-4.jpg" alt="Schweisshalle 4 cover"></td>
+    <td width="200"><img src="./assets/schweisshalle-4.jpg" alt="Schweisshalle 4 cover"></td>
     <td>Coding is great, but don't forget about the gym, for motivation use this <a href="https://soundcloud.com/kunokun/schweisshalle-4">techno set</a>.</td>
   </tr>
 </table>
