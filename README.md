@@ -8,12 +8,12 @@ A keyboard-first Chrome extension that modernizes tab management for people who 
 
 ## Catgame
 
-Catgame is a codename for my main side project at the moment. It is a tactical turn-based strategy RPG which tries to get some of the elements from my favorite strategy games I played as a kid and makes it mobile friendly. I've been building new unique mechanics and there's already alpha testing possible at this point.
+Catgame is a codename for my main side project at the moment. It is a tactical turn-based strategy RPG which tries to get some of the elements from my favorite strategy games I played as a kid and makes it mobile friendly. I've been building new unique mechanics and there's already alpha testing possible at this point. Contact me if you'd like to try it out.
 
 ![Catgame](./assets/catgame.jpg)
 
-## Vornelinks
+## [Vornelinks](https://vornelinks.kunok.dev)
 
-Vornelinks is a tool which is built on top of niche, over-the-years, close-community, hand-maintained data, then processed on top of multiple data sources to construct a functionality which basically allows the user to search DJs specific to Sisyphos club in Berlin, find similar DJs based on dancefloors and track selections, preview tracks they play, and select their sets to generate a SoundCloud playlist which can then be imported into Rekordbox and mixed immediately. Useful to swiftly try different styles which are within the boundaries of the club genre. Saves months of track-collection effort.
+Vornelinks is a tool which is built on top of niche, over-the-years, close-community, then processed on top of multiple data sources to construct a functionality which basically allows the user to search DJs specific to Sisyphos club in Berlin, find similar DJs based on dancefloors and track selections, preview tracks they play, and select their sets to generate a SoundCloud playlist which can then be imported into Rekordbox and mixed immediately. Useful to swiftly try different styles which are within the boundaries of the club genre. Saves months of track-collection effort.
 
 https://github.com/user-attachments/assets/644db4ad-b45d-409a-8d9a-45f67eed7d64
